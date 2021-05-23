@@ -15,7 +15,7 @@ public class Bloom : PostEffectBase{
     public float blurSpread = 0f;
     // Use this for initialization
     void Start () {
-		
+		Debug.Log("sdfsdf");
 	}
 	
 	// Update is called once per frame
